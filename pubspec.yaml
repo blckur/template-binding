@@ -6,10 +6,10 @@ description: >
   create, manage, and remove instances of content bound to data defined in Dart.
 homepage: https://www.dartlang.org/polymer-dart/
 dependencies:
-  observe: ">=0.11.0 <0.14.0"
-  web_components: ">=0.7.0 <0.12.0"
+  observe: ">=0.11.0"
+  web_components: ">=0.7.0"
 dev_dependencies:
-  unittest: ">=0.10.0 <0.12.0"
-  browser: ">=0.10.0 <0.11.0"
+  unittest: ">=0.10.0"
+  browser: ">=0.10.0"
 environment:
-  sdk: ">=1.2.0 <2.0.0"
+  sdk: ">=1.2.0"
